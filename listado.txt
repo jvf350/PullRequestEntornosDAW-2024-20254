@@ -8,4 +8,5 @@ Alumnado (Apellidos, Nombre):
 
 Alumno Prueba
 
-Zhang Jiaxin
+- Garcia Martin, Alvaro
+- Zhang, Jiaxin
