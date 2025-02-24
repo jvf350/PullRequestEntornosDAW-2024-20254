@@ -8,4 +8,4 @@ Alumnado (Apellidos, Nombre):
 
 Alumno Prueba
 
-Garcia Martin - Alvaro
+- Garcia Martin, Alvaro
